@@ -83,6 +83,6 @@ A planilha completa está disponível neste repositório:
 
 ## 👩‍💼 Sobre este portfólio
 
-Este projeto integra meu portfólio profissional voltado para oportunidades nas áreas de **Assistência Administrativa e Assistência Administrativa Financeira**.
+Este projeto integra meu portfólio profissional voltado para oportunidades como **Assistente Administrativo e Assistente Administrativo Financeiro**.
 
 Os dados utilizados são simulados e foram criados exclusivamente para fins de estudo, prática e demonstração de competências profissionais.
