@@ -1,38 +1,50 @@
 # 📊 Projeto Financeiro Dell — Controle Financeiro em Excel
 
-> Projeto simulado desenvolvido para fins de portfólio profissional.  
+> **Projeto simulado desenvolvido para fins de portfólio profissional.**  
 > Não representa vínculo profissional ou trabalho realizado para a Dell Technologies.
 
-## 🎯 Objetivo
+## 🎯 Sobre o projeto
 
-Desenvolver um controle financeiro em Excel para organizar e analisar receitas, despesas, contas a receber, contas a pagar e fluxo de caixa.
+Projeto desenvolvido em Excel com o objetivo de simular uma rotina de controle financeiro empresarial, reunindo receitas, despesas, contas a receber, contas a pagar e fluxo de caixa.
 
-O projeto foi desenvolvido com foco na aplicação prática de ferramentas utilizadas em rotinas administrativas e financeiras.
+A proposta foi aplicar conhecimentos de **Excel intermediário, organização de dados e controles financeiros**, transformando os registros em informações de fácil acompanhamento por meio de indicadores e gráficos.
 
-## 🛠️ Ferramentas utilizadas
+## 📊 Dashboard Financeiro
 
-- Microsoft Excel
-- Fórmulas e funções de nível intermediário
-- Tabelas e organização de dados
-- Formatação condicional
-- Validação de dados
-- Gráficos e indicadores financeiros
+![Dashboard Financeiro Dell](dashboard-financeiro-dell.png)
 
-## 📋 Estrutura do projeto
+O dashboard apresenta uma visão consolidada dos principais indicadores financeiros do projeto, permitindo acompanhar receitas, despesas, resultados e saldos.
+
+### Principais indicadores
+
+| Indicador | Resultado |
+|---|---:|
+| Receitas Totais | R$ 162.800,00 |
+| Receitas Recebidas | R$ 134.100,00 |
+| Despesas Totais | R$ 107.300,00 |
+| Despesas Pagas | R$ 94.800,00 |
+| Resultado Previsto | R$ 55.500,00 |
+| Resultado Realizado | R$ 39.300,00 |
+| Margem Realizada | 29,3% |
+| Saldo a Receber | R$ 28.700,00 |
+| Saldo a Pagar | R$ 12.500,00 |
+| Saldo Final de Caixa | R$ 39.300,00 |
+
+## 🗂️ Estrutura da planilha
 
 O arquivo foi organizado nas seguintes áreas:
 
-- Cadastro
-- Receitas
-- Despesas
-- Contas
-- Fluxo de Caixa
-- Dashboard
-- Fórmulas
+- **Cadastro:** apoio à organização e classificação dos registros;
+- **Receitas:** controle das entradas financeiras;
+- **Despesas:** acompanhamento das saídas;
+- **Contas:** acompanhamento de valores a receber e a pagar;
+- **Fluxo de Caixa:** consolidação das movimentações realizadas;
+- **Dashboard:** visualização dos principais indicadores;
+- **Fórmulas:** demonstração das funções utilizadas no projeto.
 
-## 🧮 Fórmulas e funções utilizadas
+## 🧮 Fórmulas e recursos utilizados
 
-Entre as funções aplicadas no projeto estão:
+Durante o desenvolvimento foram aplicados recursos de Excel de nível intermediário, incluindo:
 
 - `PROCV (VLOOKUP)`
 - `SEERRO (IFERROR)`
@@ -41,43 +53,36 @@ Entre as funções aplicadas no projeto estão:
 - `SE (IF)`
 - `SOMA (SUM)`
 - Cálculos percentuais
-
-## 📈 Indicadores
-
-O dashboard permite acompanhar:
-
-- Receitas totais
-- Receitas recebidas
-- Despesas totais
-- Despesas pagas
-- Resultado previsto
-- Resultado realizado
-- Margem realizada
-- Saldo a receber
-- Saldo a pagar
-- Fluxo de caixa
+- Validação de dados
+- Formatação condicional
+- Tabelas
+- Gráficos
 
 ## 💡 Competências demonstradas
 
-Este projeto demonstra conhecimentos em:
-
 - Excel intermediário
-- Organização de dados
-- Controle financeiro
+- Organização e tratamento de dados
+- Controle de receitas e despesas
+- Controle de contas a pagar e receber
+- Fluxo de caixa
 - Conferência de informações
-- Análise de receitas e despesas
 - Construção de indicadores
-- Elaboração de dashboards
+- Elaboração de dashboard
 - Atenção aos detalhes
+- Organização administrativa e financeira
 
 ## 📁 Arquivo do projeto
 
-A planilha completa utilizada neste projeto está disponível neste repositório.
+A planilha completa está disponível neste repositório:
+
+**`Projeto Financeiro Portfólio DELL.xlsx`**
+
+> Para visualizar todas as fórmulas, controles e funcionalidades, faça o download do arquivo e abra-o no Microsoft Excel.
 
 ---
 
-### 👩‍💼 Sobre o portfólio
+## 👩‍💼 Sobre este portfólio
 
-Este projeto faz parte do meu portfólio voltado para oportunidades nas áreas **Administrativa e Administrativa Financeira**.
+Este projeto integra meu portfólio profissional voltado para oportunidades nas áreas de **Assistência Administrativa e Assistência Administrativa Financeira**.
 
-Todos os dados utilizados são simulados e foram criados exclusivamente para fins de estudo e demonstração de competências profissionais.
+Os dados utilizados são simulados e foram criados exclusivamente para fins de estudo, prática e demonstração de competências profissionais.
